@@ -3,7 +3,7 @@
     <string-array name="type">
         <item>Drinks</item>
         <item>Breakfast</item>
-        <item>Dinner</item>
+        <item>Lunch</item>
         <item>Supper</item>
     </string-array>
     <string name="title_activity_recipie_final">RecipieFinal</string>
